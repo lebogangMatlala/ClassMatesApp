@@ -1,0 +1,35 @@
+page-home {
+ .center{
+     text-align: center;
+     margin-top: 150px;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     align-content: center;
+    
+ }
+ .img{
+    width: auto ;height: auto
+ }
+ .img:hover{
+     background-color: grey;
+ }
+
+ .background{
+    background-image: url('../../assets/imgs/b.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ h2{
+     color: rgb(24,30,106);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-style: oblique;
+ }
+
+ h3{
+    color: rgb(173,0,39);
+ }
+
+
+}

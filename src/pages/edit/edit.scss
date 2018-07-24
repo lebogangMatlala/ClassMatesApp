@@ -1,0 +1,16 @@
+page-edit {
+    .background{
+        background-image: url('../../assets/imgs/b.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .cards{
+        background: linear-gradient(rgba(255, 255, 255, 0.459), rgba(0, 0, 255, 0.4));
+      
+    }
+
+    .card{
+        background: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 255, 0));
+      
+    }
+}
